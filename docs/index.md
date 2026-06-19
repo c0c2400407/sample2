@@ -77,3 +77,13 @@ Duplicated footnote reference[^second].
 [^first]: Footnote **can have markup**
  and multiple paragraphs.
 [^second]: Footnote text.
+
+## Images
+
+![CylinderMapping](C0C24004_Kadai2_CylinderMapping.png)
+
+## Youtube Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JqWS3buMpLU?si=le1rqx7SnWOGz1NN"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
